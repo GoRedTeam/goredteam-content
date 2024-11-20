@@ -1,17 +1,17 @@
 - name: "Twitter"
-  url: "https://twitter.com/goredteam"
+  url: "https://twitter.com/0xDezzy"
   icon: "x"
   weight: 1
 
-- name: "Go Red Team Discord"
-  url: "https://discord.gg/goredteam"
-  icon: "discord"
-  weight: 2
+# - name: "Go Red Team Discord"
+#   url: "https://discord.gg/goredteam"
+#   icon: "discord"
+#   weight: 2
 
-- name: "LinkedIn"
-  url: "https://www.linkedin.com/company/go-red-team"
-  icon: "linkedin"
-  weight: 3
+# - name: "LinkedIn"
+#   url: "https://www.linkedin.com/company/go-red-team"
+#   icon: "linkedin"
+#   weight: 3
 
 - name: "YouTube"
   url: "https://www.youtube.com/@GoRedTeam"
